@@ -35,10 +35,6 @@ Users should be able to:
 ![](./screens/_Users_desktop.png)
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -53,7 +49,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Parag Diwan](https://www.your-site.com)
+- Website - [Parag Diwan](https://github.com/paragdiwan)
 - Frontend Mentor - [@paragdiwan](https://www.frontendmentor.io/profile/yourusername)
 
 
