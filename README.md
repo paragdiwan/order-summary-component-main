@@ -34,7 +34,8 @@ Users should be able to:
 #### Desktop
 ![](./screens/_Users_desktop.png)
 
-
+## Demo
+https://paragdiwan.github.io/order-summary-component-main/index.html
 
 ## My process
 
@@ -50,7 +51,7 @@ Users should be able to:
 ## Author
 
 - Website - [Parag Diwan](https://github.com/paragdiwan)
-- Frontend Mentor - [@paragdiwan](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@paragdiwan](https://www.frontendmentor.io/profile/paragdiwan)
 
 
 
